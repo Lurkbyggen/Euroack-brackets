@@ -1,1 +1,3 @@
-7u eurorack brackets for vector rails. untested as of now.
+7u eurorack brackets for vector rails. 
+
+Untested, and need to make a few more holes before testning.
