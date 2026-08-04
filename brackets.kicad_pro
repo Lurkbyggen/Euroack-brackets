@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "bracket.kicad_pro",
+    "filename": "brackets.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -656,8 +656,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "bracket.kicad_sch",
-        "name": "bracket",
+        "filename": "brackets.kicad_sch",
+        "name": "brackets",
         "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ],

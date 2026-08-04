@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Egna greer") (type "KiCad") (uri "/Users/leo/Egna greer.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty") (options "") (descr ""))
+	(lib (name "bilder") (type "KiCad") (uri "${KIPRJMOD}/bilder.pretty") (options "") (descr ""))
+)
