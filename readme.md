@@ -2,4 +2,4 @@
 
 Untested.
 
-![Side bracket](side bracket.png)
+![Side bracket](sidebracket.png)
