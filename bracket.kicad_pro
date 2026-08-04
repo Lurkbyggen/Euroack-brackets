@@ -656,8 +656,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "eurorack rails.kicad_sch",
-        "name": "eurorack rails",
+        "filename": "bracket.kicad_sch",
+        "name": "bracket",
         "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ],
